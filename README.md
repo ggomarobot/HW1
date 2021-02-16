@@ -1,2 +1,3 @@
 # HW1
-COMP20 first assignment
+This is my first COMP20 assignment!
+I made an html page containing my personal information!
